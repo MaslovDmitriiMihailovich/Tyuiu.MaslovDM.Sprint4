@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.MaslovDM.Sprint4.Task0.V30.Lib/Tyuiu.MaslovDM.Sprint4.Task0.V30.Lib.csproj" Id="bae74524-2a5b-4dfa-aded-0eb4dde5181b" />
+    <Project Path="Tyuiu.MaslovDM.Sprint4.Task0.V30.Test/Tyuiu.MaslovDM.Sprint4.Task0.V30.Test.csproj" Id="432ca02e-56b0-42ab-b05d-b638a39f605f" />
+    <Project Path="Tyuiu.MaslovDM.Sprint4.Task0.V30/Tyuiu.MaslovDM.Sprint4.Task0.V30.csproj" Id="c4ec7e5e-51b8-43c1-ba8b-689b26caeb8a" />
+  </Folder>
+</Solution>
